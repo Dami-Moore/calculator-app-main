@@ -25,28 +25,27 @@ Users should be able to:
 - Adjust the color theme based on their preference
 
 ### Screenshot
-Theme 1(Desktop)
+<p>Theme 1(Desktop)</p>
 <img src='/design/desktop-design-theme-1.jpg'>
 
-Theme 1(mobile)
+<p>Theme 1(mobile)</p>
 <img src='/design/mobile-design-theme-1.jpg'>
 
-Theme 2(Desktop)
+<p>Theme 2(Desktop)</p>
 <img src='/design/desktop-design-theme-2.jpg'>
 
-Theme 2(mobile)
+<p>Theme 2(mobile)</p>
 <img src='/design/mobile-design-theme-2.jpg'>
 
-Theme 3(Desktop)
+<p>Theme 3(Desktop)</p>
 <img src='/design/desktop-design-theme-3.jpg'>
 
-Theme 3(mobile)
+<p>Theme 3(mobile)</p>
 <img src='/design/mobile-design-theme-3.jpg'>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click here!]( https://dami-moore.github.io/calculator-app-main/)
 
 
 ## My process
