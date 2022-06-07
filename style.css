@@ -51,8 +51,6 @@ main {
 }
 
 .labels {
-    font-size: 0.75rem;
-    font-weight: 700px;
     width: 100%;
 }
 
@@ -60,6 +58,8 @@ main {
 .labels label {
     margin-left: 15%;
     margin-right: 5%;
+    font-size: 0.75rem;
+    font-weight: 700;
 }
 
 .radio-btn {
