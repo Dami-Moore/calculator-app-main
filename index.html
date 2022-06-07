@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+  <title>Frontend Mentor | Calculator app</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;700&display=swap" rel="stylesheet">
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+ 
+</head>
+<body class="first-main-background">
+
+  <main>
+    <div class="heading">
+      <h1 class="first-h1">calc</h1>
+      <div class="theme">
+        <p class="first-theme-paragraph">Theme</p>
+        <div class="radio-btn">
+          <div class="labels first-label">
+            <label for="one">1</label>
+            <label for="two">2</label>
+            <label for="three">3</label>
+          </div>
+            
+          <div class="actual-btns first-actual-btns">
+            <input class="radio" type="radio" name="number" value="1" id="one" checked>
+            <input class="radio" type="radio" name="number" value="2" id="two">
+            <input class="radio" type="radio" name="number" value="3" id="three">
+          </div>
+      </div>
+          
+    </div>
+  </div>
+  
+    <div class="input-field">
+      <input type="text" class="input-screen first-input-screen-bg-color" id="text-input" inputmode="none">
+    </div>
+    
+    <div class="number-container first-num-container-color">
+      <button class="button same-size-btn number">7</button>
+      <button class="button same-size-btn number">8</button>
+      <button class="button same-size-btn number">9</button>
+      <button class="resetdel del same-color">Del</button>
+      <button class="button same-size-btn number">4</button>
+      <button class="button same-size-btn number">5</button>
+      <button class="button same-size-btn number">6</button>
+      <button class="button same-size-btn operator">+</button>
+      <button class="button same-size-btn number">1</button>
+      <button class="button same-size-btn number">2</button>
+      <button class="button same-size-btn number">3</button>
+      <button class="button same-size-btn operator">-</button>
+      <button class="button same-size-btn number">.</button>
+      <button class="button same-size-btn number">0</button>
+      <button class="button same-size-btn operator">/</button>
+      <button class="button same-size-btn operator">*</button>
+      <button class="resetdel bigger-size-btn reset same-color">Reset</button>
+      <button class="bigger-size-btn equals diff-color operator">=</button>
+    </div>
+  </main>
+ 
+  <script src="index.js"></script>
+</body>
+</html>
