@@ -189,6 +189,8 @@ for(const type of sameColor) {
         if(type.innerHTML.toUpperCase() === 'RESET') {
             currentValue = '';
             updateToScreen();
+            previousValue = '';
+            operation = '';
         }
     })
 }
